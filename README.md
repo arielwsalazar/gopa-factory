@@ -7,3 +7,6 @@ https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
 
 
 go get -u github.com/arielwsalazar/gopa-factory
+
+
+yes, this app creates the struture but is not ordered as the article recommend. 
