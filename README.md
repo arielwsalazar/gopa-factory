@@ -5,3 +5,5 @@ this small project creates the initial structure following the William Kennedy' 
 
 https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
 
+
+go get -u github.com/arielwsalazar/gopa-factory
